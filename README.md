@@ -1,1 +1,4 @@
 # homework5
+
+1-Appium'da test yazılıp, bu testler için try catch kullanılarak FileNotFundException, NullPointerException vb. exceptionlar için exception handling yapılacak.
+2-Charles Android Emulator Proxy araştırılacak.
